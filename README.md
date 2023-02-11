@@ -14,7 +14,7 @@ http://www.kmonos.net/alang/etc/brainfuck.php
 --------------------------------------------------------------------
 ## 【インストール方法】
 
-``sh
+``
 % make
 ``
 
@@ -25,7 +25,7 @@ http://www.kmonos.net/alang/etc/brainfuck.php
 
 どちらも引数にBrainfuckソースファイル名を与えれば実行できます。
 
-``sh
+``
 % zbrainfuck hoge.bf
 % zbfc hoge.bf
 ``
